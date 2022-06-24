@@ -2147,7 +2147,7 @@ MonoBehaviour:
   ball: {fileID: 409403867}
   panel: {fileID: 755321283}
   bola: 0
-  limit: 1
+  limit: 10
   satu: 0
   dua: 0
   tiga: 0
